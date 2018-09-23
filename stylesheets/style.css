@@ -1,0 +1,59 @@
+
+body{
+	background-color: #8D92D6;
+	
+}
+
+h1{
+	font-family:"Comfortaa", cursive;
+	font-size: 60px;
+	text-align: center;
+	color: #FFFAFA;
+	padding:15px;
+}
+
+
+p{
+	font-family: Comfortaa, cursive;
+	font-size: 32px;
+	text-align: center;
+	color:#F8F7EB;
+	padding-left:200px;
+	padding-right:200px;
+}
+img{
+	border:15px #F8F7EB;
+	padding: 15px;
+	background-color:#F8F7EB;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+figcaption{
+	font-family: News Cycle, sans-serif;
+	font-size: 20px;
+	text-align: center;
+	color: #F8F7EB;
+}
+
+a{
+	text-decoration: none;
+	font-family: Comfortaa, cursive;
+	font-size: 18px;
+	color: #F8F7EB;
+}
+
+hr{
+	margin-left: 200px;
+	margin-right: 200px;
+}
+.travel{
+	font-size:18px;
+	font-family: Comfortaa, cursive;
+}
+
+.title{
+	margin-left: 5px;
+	margin-right: 5px;
+}
